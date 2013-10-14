@@ -1,3 +1,20 @@
+/*layout*/
+.container_12 {
+	background: url("../img/woodgrain.png");
+}
+
+#aside-1 {
+	background: teal;
+	}
+#aside-2{
+	background: white;
+}
+	
+#main {
+	background: pink;
+}
+
+
 /* Main Navigation */
 
 li {
