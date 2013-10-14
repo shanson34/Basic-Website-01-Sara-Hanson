@@ -13,8 +13,14 @@
 #main {
 	background: pink;
 }
-
-
+/* LOGO */
+img {
+	border: 10px dashed #000;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px #f0f;
+	padding: 10px;
+	margin: 10px;
+}
 /* Main Navigation */
 
 li {
